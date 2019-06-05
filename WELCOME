@@ -1,0 +1,10 @@
+# ULAFF PfHP Docker image
+
+NOTICE: This is not an official image by the ULAFF Team.
+
+Here goes important messages to the newcomers, like
+
+* BLIS is already installed; 
+
+* Please export the env variable OMP_NUM_THREADS properly such that BLIS can
+  work with the right number of threads;
